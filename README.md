@@ -4,6 +4,7 @@
 ```bash
   * Django 3.0.7
   * Django rest framework 3.11.0
+  * формат данных JSON
  ``` 
 Приложение предоставляющие REST API по работе с сущностью User.
 
